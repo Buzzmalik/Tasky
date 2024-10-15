@@ -21,4 +21,4 @@ The tasks or todos can be selected to show a completed status and can also be de
 ![web](./screenshots/Screenshot%202024-06-22%20195706.png)
 
 # Contact
-For any questions or suggestions, please contact me on [Twitter](https://twitter.com/_02ahmed)
+For any questions or suggestions, please contact me on [Gmail](https://gmail.com/mustaphamalik789@gmai.com)
