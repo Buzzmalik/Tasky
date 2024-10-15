@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');
+
+body {
+  background-color: grey;
+  font-family: "Gloria Hallelujah", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+}
+
+.heading {
+  color: aliceblue;
+}
+
+.completed {
+  text-decoration: line-through;
+  color: black
+}

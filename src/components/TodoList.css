@@ -1,0 +1,16 @@
+table {
+  background: black;
+}
+
+tr {
+  background-color: black;
+}
+
+.add-btn {
+  width:250px;
+  height: 40px;
+}
+
+label {
+  color: white;
+}
